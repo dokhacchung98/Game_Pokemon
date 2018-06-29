@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\visual studio\gamepokemon\gamepokemon\main.cpp(430): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\visual studio\gamepokemon\gamepokemon\main.cpp(952): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GamePokemon.vcxproj -> E:\Visual Studio\GamePokemon\Debug\GamePokemon.exe
